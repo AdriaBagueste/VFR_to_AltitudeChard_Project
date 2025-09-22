@@ -1,0 +1,7 @@
+{
+  "max_value": 255,
+  "adaptive_method": 1,
+  "threshold_type": 0,
+  "block_size": 11,
+  "C": 2
+}

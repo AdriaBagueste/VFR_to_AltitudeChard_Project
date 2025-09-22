@@ -1,0 +1,2163 @@
+COORDENADES DELS VÈRTEXS D'ESPAIS AERIS
+==================================================
+
+TIPUS D'ESPAI AERI: RESTRICTED_AIRSPACE
+----------------------------------------
+
+Polígon ID: 1
+Nombre de vèrtexs: 11
+Àrea: 1496 px²
+Perímetre: 429 px
+Centroide: (1507.0, 2281.6)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1471, 2257)
+  Vèrtex 2: (1469, 2272)
+  Vèrtex 3: (1484, 2268)
+  Vèrtex 4: (1468, 2282)
+  Vèrtex 5: (1574, 2321)
+  Vèrtex 6: (1559, 2304)
+  Vèrtex 7: (1516, 2296)
+  Vèrtex 8: (1523, 2274)
+  Vèrtex 9: (1514, 2269)
+  Vèrtex 10: (1497, 2289)
+  Vèrtex 11: (1502, 2266)
+
+
+Polígon ID: 2
+Nombre de vèrtexs: 12
+Àrea: 1620 px²
+Perímetre: 306 px
+Centroide: (2496.9, 2209.4)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2536, 2216)
+  Vèrtex 2: (2510, 2205)
+  Vèrtex 3: (2507, 2187)
+  Vèrtex 4: (2480, 2191)
+  Vèrtex 5: (2478, 2205)
+  Vèrtex 6: (2471, 2189)
+  Vèrtex 7: (2459, 2206)
+  Vèrtex 8: (2490, 2210)
+  Vèrtex 9: (2483, 2226)
+  Vèrtex 10: (2499, 2229)
+  Vèrtex 11: (2519, 2221)
+  Vèrtex 12: (2531, 2228)
+
+
+Polígon ID: 3
+Nombre de vèrtexs: 5
+Àrea: 1003 px²
+Perímetre: 459 px
+Centroide: (954.6, 2127.4)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1013, 2136)
+  Vèrtex 2: (972, 2129)
+  Vèrtex 3: (979, 2117)
+  Vèrtex 4: (963, 2129)
+  Vèrtex 5: (846, 2126)
+
+
+Polígon ID: 4
+Nombre de vèrtexs: 11
+Àrea: 1371 px²
+Perímetre: 289 px
+Centroide: (1648.7, 2055.5)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1671, 2036)
+  Vèrtex 2: (1628, 2037)
+  Vèrtex 3: (1625, 2053)
+  Vèrtex 4: (1643, 2058)
+  Vèrtex 5: (1629, 2059)
+  Vèrtex 6: (1626, 2072)
+  Vèrtex 7: (1671, 2072)
+  Vèrtex 8: (1672, 2059)
+  Vèrtex 9: (1652, 2061)
+  Vèrtex 10: (1645, 2052)
+  Vèrtex 11: (1674, 2052)
+
+
+Polígon ID: 5
+Nombre de vèrtexs: 12
+Àrea: 2694 px²
+Perímetre: 508 px
+Centroide: (1880.2, 2015.1)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1853, 1961)
+  Vèrtex 2: (1863, 1977)
+  Vèrtex 3: (1851, 1998)
+  Vèrtex 4: (1881, 2007)
+  Vèrtex 5: (1862, 2022)
+  Vèrtex 6: (1884, 2034)
+  Vèrtex 7: (1864, 2049)
+  Vèrtex 8: (1895, 2048)
+  Vèrtex 9: (1927, 2073)
+  Vèrtex 10: (1908, 2013)
+  Vèrtex 11: (1886, 2012)
+  Vèrtex 12: (1889, 1987)
+
+
+Polígon ID: 6
+Nombre de vèrtexs: 10
+Àrea: 1750 px²
+Perímetre: 221 px
+Centroide: (1974.8, 1961.7)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1947, 1945)
+  Vèrtex 2: (1941, 1960)
+  Vèrtex 3: (1951, 1962)
+  Vèrtex 4: (1949, 1980)
+  Vèrtex 5: (1988, 1979)
+  Vèrtex 6: (1994, 1975)
+  Vèrtex 7: (1992, 1962)
+  Vèrtex 8: (2003, 1959)
+  Vèrtex 9: (1993, 1955)
+  Vèrtex 10: (1990, 1940)
+
+
+Polígon ID: 8
+Nombre de vèrtexs: 6
+Àrea: 2678 px²
+Perímetre: 709 px
+Centroide: (945.2, 1845.5)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1047, 1803)
+  Vèrtex 2: (981, 1829)
+  Vèrtex 3: (936, 1815)
+  Vèrtex 4: (947, 1848)
+  Vèrtex 5: (866, 1886)
+  Vèrtex 6: (894, 1892)
+
+
+Polígon ID: 9
+Nombre de vèrtexs: 7
+Àrea: 1058 px²
+Perímetre: 339 px
+Centroide: (831.1, 1808.7)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (767, 1796)
+  Vèrtex 2: (845, 1802)
+  Vèrtex 3: (846, 1810)
+  Vèrtex 4: (825, 1811)
+  Vèrtex 5: (828, 1824)
+  Vèrtex 6: (858, 1823)
+  Vèrtex 7: (849, 1795)
+
+
+Polígon ID: 10
+Nombre de vèrtexs: 10
+Àrea: 3341 px²
+Perímetre: 874 px
+Centroide: (2035.6, 1793.0)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1959, 1765)
+  Vèrtex 2: (2006, 1769)
+  Vèrtex 3: (2000, 1812)
+  Vèrtex 4: (2037, 1813)
+  Vèrtex 5: (2038, 1834)
+  Vèrtex 6: (2092, 1809)
+  Vèrtex 7: (2012, 1800)
+  Vèrtex 8: (2046, 1793)
+  Vèrtex 9: (2040, 1769)
+  Vèrtex 10: (2126, 1766)
+
+
+Polígon ID: 11
+Nombre de vèrtexs: 13
+Àrea: 1097 px²
+Perímetre: 271 px
+Centroide: (1353.7, 1739.2)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1309, 1724)
+  Vèrtex 2: (1316, 1744)
+  Vèrtex 3: (1364, 1741)
+  Vèrtex 4: (1372, 1751)
+  Vèrtex 5: (1368, 1759)
+  Vèrtex 6: (1380, 1757)
+  Vèrtex 7: (1371, 1750)
+  Vèrtex 8: (1376, 1742)
+  Vèrtex 9: (1369, 1730)
+  Vèrtex 10: (1366, 1740)
+  Vèrtex 11: (1360, 1726)
+  Vèrtex 12: (1329, 1729)
+  Vèrtex 13: (1318, 1717)
+
+
+Polígon ID: 12
+Nombre de vèrtexs: 11
+Àrea: 4244 px²
+Perímetre: 1103 px
+Centroide: (2122.9, 1735.7)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1990, 1667)
+  Vèrtex 2: (2057, 1709)
+  Vèrtex 3: (2051, 1757)
+  Vèrtex 4: (2089, 1710)
+  Vèrtex 5: (2200, 1758)
+  Vèrtex 6: (2146, 1765)
+  Vèrtex 7: (2191, 1769)
+  Vèrtex 8: (2174, 1791)
+  Vèrtex 9: (2213, 1763)
+  Vèrtex 10: (2109, 1714)
+  Vèrtex 11: (2132, 1690)
+
+
+Polígon ID: 13
+Nombre de vèrtexs: 6
+Àrea: 1397 px²
+Perímetre: 476 px
+Centroide: (1789.5, 1693.7)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1709, 1649)
+  Vèrtex 2: (1835, 1737)
+  Vèrtex 3: (1790, 1705)
+  Vèrtex 4: (1828, 1690)
+  Vèrtex 5: (1793, 1684)
+  Vèrtex 6: (1782, 1697)
+
+
+Polígon ID: 14
+Nombre de vèrtexs: 8
+Àrea: 1195 px²
+Perímetre: 425 px
+Centroide: (1869.1, 1628.8)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1794, 1590)
+  Vèrtex 2: (1868, 1621)
+  Vèrtex 3: (1853, 1626)
+  Vèrtex 4: (1858, 1648)
+  Vèrtex 5: (1874, 1646)
+  Vèrtex 6: (1876, 1622)
+  Vèrtex 7: (1916, 1644)
+  Vèrtex 8: (1914, 1633)
+
+
+Polígon ID: 15
+Nombre de vèrtexs: 8
+Àrea: 1112 px²
+Perímetre: 265 px
+Centroide: (910.5, 1390.2)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (930, 1358)
+  Vèrtex 2: (918, 1382)
+  Vèrtex 3: (912, 1378)
+  Vèrtex 4: (919, 1361)
+  Vèrtex 5: (908, 1369)
+  Vèrtex 6: (894, 1404)
+  Vèrtex 7: (898, 1436)
+  Vèrtex 8: (905, 1434)
+
+
+Polígon ID: 16
+Nombre de vèrtexs: 9
+Àrea: 1848 px²
+Perímetre: 257 px
+Centroide: (2453.8, 1312.6)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2472, 1291)
+  Vèrtex 2: (2423, 1292)
+  Vèrtex 3: (2412, 1329)
+  Vèrtex 4: (2450, 1322)
+  Vèrtex 5: (2465, 1330)
+  Vèrtex 6: (2468, 1324)
+  Vèrtex 7: (2458, 1319)
+  Vèrtex 8: (2472, 1308)
+  Vèrtex 9: (2464, 1298)
+
+
+Polígon ID: 17
+Nombre de vèrtexs: 6
+Àrea: 1036 px²
+Perímetre: 417 px
+Centroide: (2909.3, 833.3)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2946, 767)
+  Vèrtex 2: (2916, 786)
+  Vèrtex 3: (2893, 825)
+  Vèrtex 4: (2893, 874)
+  Vèrtex 5: (2915, 911)
+  Vèrtex 6: (2893, 837)
+
+
+Polígon ID: 18
+Nombre de vèrtexs: 10
+Àrea: 1665 px²
+Perímetre: 559 px
+Centroide: (3009.4, 793.5)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2956, 764)
+  Vèrtex 2: (3026, 779)
+  Vèrtex 3: (3010, 797)
+  Vèrtex 4: (2975, 789)
+  Vèrtex 5: (2973, 807)
+  Vèrtex 6: (3017, 815)
+  Vèrtex 7: (3008, 800)
+  Vèrtex 8: (3037, 788)
+  Vèrtex 9: (3065, 825)
+  Vèrtex 10: (3027, 771)
+
+
+Polígon ID: 19
+Nombre de vèrtexs: 10
+Àrea: 1240 px²
+Perímetre: 289 px
+Centroide: (1368.6, 758.3)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1331, 776)
+  Vèrtex 2: (1338, 759)
+  Vèrtex 3: (1370, 763)
+  Vèrtex 4: (1383, 754)
+  Vèrtex 5: (1383, 768)
+  Vèrtex 6: (1387, 760)
+  Vèrtex 7: (1409, 762)
+  Vèrtex 8: (1410, 751)
+  Vèrtex 9: (1344, 741)
+  Vèrtex 10: (1331, 749)
+
+
+Polígon ID: 20
+Nombre de vèrtexs: 11
+Àrea: 1123 px²
+Perímetre: 283 px
+Centroide: (1571.1, 751.5)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1533, 744)
+  Vèrtex 2: (1538, 762)
+  Vèrtex 3: (1558, 755)
+  Vèrtex 4: (1584, 763)
+  Vèrtex 5: (1624, 758)
+  Vèrtex 6: (1618, 746)
+  Vèrtex 7: (1581, 747)
+  Vèrtex 8: (1574, 757)
+  Vèrtex 9: (1569, 741)
+  Vèrtex 10: (1562, 753)
+  Vèrtex 11: (1541, 740)
+
+
+Polígon ID: 21
+Nombre de vèrtexs: 8
+Àrea: 1816 px²
+Perímetre: 327 px
+Centroide: (2907.4, 637.8)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2957, 631)
+  Vèrtex 2: (2911, 630)
+  Vèrtex 3: (2897, 647)
+  Vèrtex 4: (2893, 630)
+  Vèrtex 5: (2856, 630)
+  Vèrtex 6: (2847, 649)
+  Vèrtex 7: (2950, 649)
+  Vèrtex 8: (2948, 636)
+
+
+Polígon ID: 23
+Nombre de vèrtexs: 15
+Àrea: 1330 px²
+Perímetre: 400 px
+Centroide: (2678.5, 270.5)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2638, 261)
+  Vèrtex 2: (2653, 281)
+  Vèrtex 3: (2672, 272)
+  Vèrtex 4: (2671, 285)
+  Vèrtex 5: (2658, 285)
+  Vèrtex 6: (2668, 294)
+  Vèrtex 7: (2678, 260)
+  Vèrtex 8: (2686, 275)
+  Vèrtex 9: (2713, 275)
+  Vèrtex 10: (2716, 265)
+  Vèrtex 11: (2725, 273)
+  Vèrtex 12: (2712, 256)
+  Vèrtex 13: (2675, 256)
+  Vèrtex 14: (2663, 268)
+  Vèrtex 15: (2649, 252)
+
+
+==================================================
+
+TIPUS D'ESPAI AERI: CONTROLLED_AIRSPACE
+----------------------------------------
+
+Polígon ID: 1
+Nombre de vèrtexs: 4
+Àrea: 1334 px²
+Perímetre: 298 px
+Centroide: (1681.0, 2276.0)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1611, 2243)
+  Vèrtex 2: (1709, 2298)
+  Vèrtex 3: (1728, 2297)
+  Vèrtex 4: (1676, 2266)
+
+
+Polígon ID: 2
+Nombre de vèrtexs: 12
+Àrea: 1074 px²
+Perímetre: 235 px
+Centroide: (667.8, 2270.5)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (675, 2226)
+  Vèrtex 2: (664, 2235)
+  Vèrtex 3: (670, 2243)
+  Vèrtex 4: (659, 2267)
+  Vèrtex 5: (663, 2276)
+  Vèrtex 6: (656, 2281)
+  Vèrtex 7: (659, 2301)
+  Vèrtex 8: (670, 2305)
+  Vèrtex 9: (674, 2295)
+  Vèrtex 10: (666, 2289)
+  Vèrtex 11: (675, 2288)
+  Vèrtex 12: (683, 2240)
+
+
+Polígon ID: 3
+Nombre de vèrtexs: 9
+Àrea: 5160 px²
+Perímetre: 933 px
+Centroide: (2829.3, 2267.7)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2901, 2203)
+  Vèrtex 2: (2769, 2252)
+  Vèrtex 3: (2832, 2255)
+  Vèrtex 4: (2805, 2282)
+  Vèrtex 5: (2829, 2292)
+  Vèrtex 6: (2763, 2337)
+  Vèrtex 7: (2849, 2296)
+  Vèrtex 8: (2875, 2242)
+  Vèrtex 9: (2841, 2250)
+
+
+Polígon ID: 4
+Nombre de vèrtexs: 4
+Àrea: 1685 px²
+Perímetre: 422 px
+Centroide: (1548.2, 2202.2)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1474, 2177)
+  Vèrtex 2: (1604, 2237)
+  Vèrtex 3: (1541, 2201)
+  Vèrtex 4: (1574, 2194)
+
+
+Polígon ID: 5
+Nombre de vèrtexs: 11
+Àrea: 1562 px²
+Perímetre: 276 px
+Centroide: (3254.1, 2193.2)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (3205, 2180)
+  Vèrtex 2: (3220, 2184)
+  Vèrtex 3: (3244, 2213)
+  Vèrtex 4: (3258, 2203)
+  Vèrtex 5: (3268, 2209)
+  Vèrtex 6: (3295, 2204)
+  Vèrtex 7: (3292, 2198)
+  Vèrtex 8: (3270, 2203)
+  Vèrtex 9: (3270, 2187)
+  Vèrtex 10: (3245, 2164)
+  Vèrtex 11: (3228, 2180)
+
+
+Polígon ID: 6
+Nombre de vèrtexs: 7
+Àrea: 1519 px²
+Perímetre: 374 px
+Centroide: (954.4, 2162.9)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (899, 2167)
+  Vèrtex 2: (1024, 2172)
+  Vèrtex 3: (1026, 2158)
+  Vèrtex 4: (949, 2158)
+  Vèrtex 5: (943, 2169)
+  Vèrtex 6: (938, 2158)
+  Vèrtex 7: (902, 2158)
+
+
+Polígon ID: 7
+Nombre de vèrtexs: 10
+Àrea: 1311 px²
+Perímetre: 464 px
+Centroide: (2609.6, 2178.6)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2569, 2152)
+  Vèrtex 2: (2569, 2165)
+  Vèrtex 3: (2597, 2174)
+  Vèrtex 4: (2615, 2233)
+  Vèrtex 5: (2629, 2236)
+  Vèrtex 6: (2601, 2170)
+  Vèrtex 7: (2633, 2155)
+  Vèrtex 8: (2658, 2190)
+  Vèrtex 9: (2633, 2145)
+  Vèrtex 10: (2592, 2166)
+
+
+Polígon ID: 8
+Nombre de vèrtexs: 8
+Àrea: 6384 px²
+Perímetre: 503 px
+Centroide: (858.5, 2198.1)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (870, 2146)
+  Vèrtex 2: (808, 2174)
+  Vèrtex 3: (819, 2239)
+  Vèrtex 4: (809, 2255)
+  Vèrtex 5: (915, 2223)
+  Vèrtex 6: (884, 2188)
+  Vèrtex 7: (871, 2193)
+  Vèrtex 8: (892, 2167)
+
+
+Polígon ID: 9
+Nombre de vèrtexs: 7
+Àrea: 1291 px²
+Perímetre: 295 px
+Centroide: (1629.4, 2127.0)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1681, 2123)
+  Vèrtex 2: (1637, 2122)
+  Vèrtex 3: (1632, 2131)
+  Vèrtex 4: (1627, 2121)
+  Vèrtex 5: (1578, 2122)
+  Vèrtex 6: (1573, 2135)
+  Vèrtex 7: (1678, 2135)
+
+
+Polígon ID: 10
+Nombre de vèrtexs: 3
+Àrea: 2529 px²
+Perímetre: 554 px
+Centroide: (1346.3, 2107.7)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1256, 2068)
+  Vèrtex 2: (1468, 2171)
+  Vèrtex 3: (1315, 2084)
+
+
+Polígon ID: 11
+Nombre de vèrtexs: 5
+Àrea: 2679 px²
+Perímetre: 558 px
+Centroide: (690.8, 2140.2)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (725, 2038)
+  Vèrtex 2: (696, 2065)
+  Vèrtex 3: (682, 2185)
+  Vèrtex 4: (666, 2191)
+  Vèrtex 5: (685, 2222)
+
+
+Polígon ID: 12
+Nombre de vèrtexs: 5
+Àrea: 1480 px²
+Perímetre: 306 px
+Centroide: (2625.2, 2029.0)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2557, 2023)
+  Vèrtex 2: (2572, 2038)
+  Vèrtex 3: (2661, 2036)
+  Vèrtex 4: (2675, 2028)
+  Vèrtex 5: (2661, 2020)
+
+
+Polígon ID: 13
+Nombre de vèrtexs: 12
+Àrea: 1898 px²
+Perímetre: 729 px
+Centroide: (2365.7, 1949.6)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2322, 1916)
+  Vèrtex 2: (2346, 1919)
+  Vèrtex 3: (2326, 1942)
+  Vèrtex 4: (2366, 2002)
+  Vèrtex 5: (2429, 2040)
+  Vèrtex 6: (2353, 1971)
+  Vèrtex 7: (2374, 1925)
+  Vèrtex 8: (2399, 1965)
+  Vèrtex 9: (2396, 1924)
+  Vèrtex 10: (2371, 1921)
+  Vèrtex 11: (2352, 1956)
+  Vèrtex 12: (2354, 1914)
+
+
+Polígon ID: 14
+Nombre de vèrtexs: 12
+Àrea: 5814 px²
+Perímetre: 609 px
+Centroide: (873.4, 1960.3)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (947, 1949)
+  Vèrtex 2: (888, 1947)
+  Vèrtex 3: (884, 1929)
+  Vèrtex 4: (899, 1928)
+  Vèrtex 5: (866, 1909)
+  Vèrtex 6: (826, 1956)
+  Vèrtex 7: (841, 1960)
+  Vèrtex 8: (839, 1990)
+  Vèrtex 9: (824, 1988)
+  Vèrtex 10: (835, 2032)
+  Vèrtex 11: (897, 1968)
+  Vèrtex 12: (935, 1968)
+
+
+Polígon ID: 15
+Nombre de vèrtexs: 7
+Àrea: 3808 px²
+Perímetre: 505 px
+Centroide: (817.6, 1953.6)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (842, 1881)
+  Vèrtex 2: (790, 1935)
+  Vèrtex 3: (801, 1965)
+  Vèrtex 4: (791, 2011)
+  Vèrtex 5: (824, 2061)
+  Vèrtex 6: (819, 1924)
+  Vèrtex 7: (856, 1898)
+
+
+Polígon ID: 16
+Nombre de vèrtexs: 8
+Àrea: 3010 px²
+Perímetre: 696 px
+Centroide: (2214.8, 1891.6)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2315, 1932)
+  Vèrtex 2: (2275, 1864)
+  Vèrtex 3: (2210, 1888)
+  Vèrtex 4: (2189, 1872)
+  Vèrtex 5: (2130, 1881)
+  Vèrtex 6: (2143, 1906)
+  Vèrtex 7: (2188, 1909)
+  Vèrtex 8: (2268, 1881)
+
+
+Polígon ID: 18
+Nombre de vèrtexs: 6
+Àrea: 1731 px²
+Perímetre: 309 px
+Centroide: (2970.7, 1828.8)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2925, 1819)
+  Vèrtex 2: (2926, 1843)
+  Vèrtex 3: (3038, 1838)
+  Vèrtex 4: (3031, 1827)
+  Vèrtex 5: (2964, 1830)
+  Vèrtex 6: (2940, 1816)
+
+
+Polígon ID: 19
+Nombre de vèrtexs: 5
+Àrea: 1270 px²
+Perímetre: 315 px
+Centroide: (1786.8, 1830.4)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1828, 1778)
+  Vèrtex 2: (1739, 1878)
+  Vèrtex 3: (1767, 1861)
+  Vèrtex 4: (1772, 1844)
+  Vèrtex 5: (1828, 1791)
+
+
+Polígon ID: 20
+Nombre de vèrtexs: 8
+Àrea: 3740 px²
+Perímetre: 782 px
+Centroide: (2166.0, 1848.8)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2213, 1777)
+  Vèrtex 2: (2137, 1848)
+  Vèrtex 3: (2106, 1841)
+  Vèrtex 4: (2094, 1908)
+  Vèrtex 5: (2161, 1842)
+  Vèrtex 6: (2211, 1877)
+  Vèrtex 7: (2241, 1860)
+  Vèrtex 8: (2165, 1837)
+
+
+Polígon ID: 21
+Nombre de vèrtexs: 4
+Àrea: 4118 px²
+Perímetre: 911 px
+Centroide: (1697.8, 1835.8)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1840, 1748)
+  Vèrtex 2: (1719, 1866)
+  Vèrtex 3: (1510, 1852)
+  Vèrtex 4: (1722, 1877)
+
+
+Polígon ID: 22
+Nombre de vèrtexs: 8
+Àrea: 58336 px²
+Perímetre: 4082 px
+Centroide: (3043.0, 2020.8)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2470, 1672)
+  Vèrtex 2: (3014, 2007)
+  Vèrtex 3: (2879, 2190)
+  Vèrtex 4: (3034, 2045)
+  Vèrtex 5: (3307, 2177)
+  Vèrtex 6: (3218, 2074)
+  Vèrtex 7: (3303, 1986)
+  Vèrtex 8: (3119, 2015)
+
+
+Polígon ID: 23
+Nombre de vèrtexs: 11
+Àrea: 1898 px²
+Perímetre: 498 px
+Centroide: (2028.3, 1645.4)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2101, 1663)
+  Vèrtex 2: (2091, 1625)
+  Vèrtex 3: (1983, 1628)
+  Vèrtex 4: (1988, 1643)
+  Vèrtex 5: (1977, 1643)
+  Vèrtex 6: (1992, 1659)
+  Vèrtex 7: (2020, 1655)
+  Vèrtex 8: (1994, 1651)
+  Vèrtex 9: (1998, 1638)
+  Vèrtex 10: (2084, 1637)
+  Vèrtex 11: (2083, 1657)
+
+
+Polígon ID: 24
+Nombre de vèrtexs: 11
+Àrea: 14699 px²
+Perímetre: 2183 px
+Centroide: (1416.5, 1773.4)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1518, 1635)
+  Vèrtex 2: (1459, 1636)
+  Vèrtex 3: (1490, 1837)
+  Vèrtex 4: (1278, 1816)
+  Vèrtex 5: (1264, 1765)
+  Vèrtex 6: (1248, 2062)
+  Vèrtex 7: (1272, 1846)
+  Vèrtex 8: (1503, 1852)
+  Vèrtex 9: (1487, 1694)
+  Vèrtex 10: (1572, 1683)
+  Vèrtex 11: (1490, 1681)
+
+
+Polígon ID: 25
+Nombre de vèrtexs: 11
+Àrea: 2050 px²
+Perímetre: 500 px
+Centroide: (1237.3, 1648.7)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1279, 1664)
+  Vèrtex 2: (1253, 1614)
+  Vèrtex 3: (1239, 1629)
+  Vèrtex 4: (1178, 1624)
+  Vèrtex 5: (1172, 1635)
+  Vèrtex 6: (1225, 1634)
+  Vèrtex 7: (1247, 1664)
+  Vèrtex 8: (1249, 1698)
+  Vèrtex 9: (1260, 1669)
+  Vèrtex 10: (1242, 1635)
+  Vèrtex 11: (1266, 1670)
+
+
+Polígon ID: 26
+Nombre de vèrtexs: 7
+Àrea: 1150 px²
+Perímetre: 236 px
+Centroide: (1192.6, 1598.9)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1147, 1584)
+  Vèrtex 2: (1151, 1594)
+  Vèrtex 3: (1194, 1591)
+  Vèrtex 4: (1216, 1622)
+  Vèrtex 5: (1223, 1620)
+  Vèrtex 6: (1221, 1607)
+  Vèrtex 7: (1196, 1574)
+
+
+Polígon ID: 27
+Nombre de vèrtexs: 9
+Àrea: 11416 px²
+Perímetre: 1393 px
+Centroide: (890.0, 1648.7)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1035, 1631)
+  Vèrtex 2: (981, 1571)
+  Vèrtex 3: (1005, 1603)
+  Vèrtex 4: (789, 1608)
+  Vèrtex 5: (761, 1733)
+  Vèrtex 6: (791, 1746)
+  Vèrtex 7: (820, 1650)
+  Vèrtex 8: (878, 1674)
+  Vèrtex 9: (950, 1622)
+
+
+Polígon ID: 28
+Nombre de vèrtexs: 10
+Àrea: 1344 px²
+Perímetre: 286 px
+Centroide: (1215.1, 1571.6)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1172, 1566)
+  Vèrtex 2: (1207, 1570)
+  Vèrtex 3: (1227, 1605)
+  Vèrtex 4: (1242, 1607)
+  Vèrtex 5: (1220, 1574)
+  Vèrtex 6: (1236, 1569)
+  Vèrtex 7: (1237, 1558)
+  Vèrtex 8: (1219, 1564)
+  Vèrtex 9: (1199, 1544)
+  Vèrtex 10: (1192, 1559)
+
+
+Polígon ID: 29
+Nombre de vèrtexs: 4
+Àrea: 1308 px²
+Perímetre: 276 px
+Centroide: (1858.2, 1517.0)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1912, 1510)
+  Vèrtex 2: (1808, 1511)
+  Vèrtex 3: (1804, 1523)
+  Vèrtex 4: (1909, 1524)
+
+
+Polígon ID: 30
+Nombre de vèrtexs: 10
+Àrea: 8893 px²
+Perímetre: 839 px
+Centroide: (1388.1, 1566.2)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1246, 1507)
+  Vèrtex 2: (1339, 1616)
+  Vèrtex 3: (1468, 1592)
+  Vèrtex 4: (1488, 1616)
+  Vèrtex 5: (1486, 1559)
+  Vèrtex 6: (1419, 1571)
+  Vèrtex 7: (1407, 1552)
+  Vèrtex 8: (1407, 1573)
+  Vèrtex 9: (1352, 1584)
+  Vèrtex 10: (1269, 1492)
+
+
+Polígon ID: 31
+Nombre de vèrtexs: 4
+Àrea: 1359 px²
+Perímetre: 283 px
+Centroide: (2476.0, 1493.5)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2531, 1489)
+  Vèrtex 2: (2424, 1487)
+  Vèrtex 3: (2420, 1500)
+  Vèrtex 4: (2529, 1498)
+
+
+Polígon ID: 32
+Nombre de vèrtexs: 4
+Àrea: 2213 px²
+Perímetre: 429 px
+Centroide: (1134.0, 1458.2)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1077, 1383)
+  Vèrtex 2: (1176, 1532)
+  Vèrtex 3: (1191, 1533)
+  Vèrtex 4: (1092, 1385)
+
+
+Polígon ID: 33
+Nombre de vèrtexs: 10
+Àrea: 7223 px²
+Perímetre: 1255 px
+Centroide: (1072.6, 1486.1)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1036, 1376)
+  Vèrtex 2: (1047, 1481)
+  Vèrtex 3: (1016, 1495)
+  Vèrtex 4: (1052, 1500)
+  Vèrtex 5: (1099, 1602)
+  Vèrtex 6: (1068, 1499)
+  Vèrtex 7: (1119, 1493)
+  Vèrtex 8: (1064, 1482)
+  Vèrtex 9: (1051, 1394)
+  Vèrtex 10: (1174, 1539)
+
+
+Polígon ID: 34
+Nombre de vèrtexs: 10
+Àrea: 6564 px²
+Perímetre: 971 px
+Centroide: (1669.7, 1485.1)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1694, 1361)
+  Vèrtex 2: (1668, 1410)
+  Vèrtex 3: (1693, 1425)
+  Vèrtex 4: (1651, 1449)
+  Vèrtex 5: (1667, 1523)
+  Vèrtex 6: (1568, 1557)
+  Vèrtex 7: (1665, 1539)
+  Vèrtex 8: (1716, 1566)
+  Vèrtex 9: (1672, 1542)
+  Vèrtex 10: (1703, 1479)
+
+
+Polígon ID: 35
+Nombre de vèrtexs: 8
+Àrea: 2032 px²
+Perímetre: 309 px
+Centroide: (1427.2, 1389.4)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1452, 1357)
+  Vèrtex 2: (1417, 1370)
+  Vèrtex 3: (1442, 1393)
+  Vèrtex 4: (1426, 1400)
+  Vèrtex 5: (1404, 1380)
+  Vèrtex 6: (1390, 1407)
+  Vèrtex 7: (1428, 1413)
+  Vèrtex 8: (1459, 1395)
+
+
+Polígon ID: 36
+Nombre de vèrtexs: 9
+Àrea: 4984 px²
+Perímetre: 550 px
+Centroide: (1195.2, 1423.4)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1158, 1356)
+  Vèrtex 2: (1165, 1379)
+  Vèrtex 3: (1148, 1398)
+  Vèrtex 4: (1223, 1478)
+  Vèrtex 5: (1202, 1491)
+  Vèrtex 6: (1238, 1493)
+  Vèrtex 7: (1258, 1476)
+  Vèrtex 8: (1180, 1388)
+  Vèrtex 9: (1185, 1352)
+
+
+Polígon ID: 37
+Nombre de vèrtexs: 7
+Àrea: 26196 px²
+Perímetre: 2591 px
+Centroide: (2386.9, 1532.6)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2369, 1311)
+  Vèrtex 2: (2233, 1766)
+  Vèrtex 3: (2335, 1633)
+  Vèrtex 4: (2454, 1695)
+  Vèrtex 5: (2362, 1457)
+  Vèrtex 6: (2554, 1435)
+  Vèrtex 7: (2401, 1431)
+
+
+Polígon ID: 38
+Nombre de vèrtexs: 5
+Àrea: 6908 px²
+Perímetre: 439 px
+Centroide: (724.0, 1310.8)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (664, 1300)
+  Vèrtex 2: (680, 1325)
+  Vèrtex 3: (784, 1360)
+  Vèrtex 4: (795, 1288)
+  Vèrtex 5: (697, 1281)
+
+
+Polígon ID: 39
+Nombre de vèrtexs: 7
+Àrea: 330814 px²
+Perímetre: 3905 px
+Centroide: (581.9, 1962.0)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (449, 1266)
+  Vèrtex 2: (318, 2330)
+  Vèrtex 3: (631, 2337)
+  Vèrtex 4: (649, 2203)
+  Vèrtex 5: (532, 2183)
+  Vèrtex 6: (716, 2029)
+  Vèrtex 7: (778, 1386)
+
+
+Polígon ID: 40
+Nombre de vèrtexs: 8
+Àrea: 2261 px²
+Perímetre: 563 px
+Centroide: (1619.9, 1272.5)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1626, 1226)
+  Vèrtex 2: (1569, 1252)
+  Vèrtex 3: (1612, 1266)
+  Vèrtex 4: (1590, 1254)
+  Vèrtex 5: (1632, 1244)
+  Vèrtex 6: (1643, 1306)
+  Vèrtex 7: (1625, 1346)
+  Vèrtex 8: (1662, 1286)
+
+
+Polígon ID: 41
+Nombre de vèrtexs: 7
+Àrea: 4293 px²
+Perímetre: 372 px
+Centroide: (742.4, 1225.6)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (691, 1237)
+  Vèrtex 2: (712, 1253)
+  Vèrtex 3: (789, 1256)
+  Vèrtex 4: (806, 1218)
+  Vèrtex 5: (742, 1218)
+  Vèrtex 6: (736, 1199)
+  Vèrtex 7: (721, 1198)
+
+
+Polígon ID: 42
+Nombre de vèrtexs: 12
+Àrea: 3914 px²
+Perímetre: 941 px
+Centroide: (1846.2, 1217.8)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1751, 1187)
+  Vèrtex 2: (1770, 1216)
+  Vèrtex 3: (1826, 1205)
+  Vèrtex 4: (1807, 1261)
+  Vèrtex 5: (1832, 1213)
+  Vèrtex 6: (1915, 1228)
+  Vèrtex 7: (1937, 1281)
+  Vèrtex 8: (1925, 1223)
+  Vèrtex 9: (1880, 1207)
+  Vèrtex 10: (1901, 1201)
+  Vèrtex 11: (1838, 1183)
+  Vèrtex 12: (1772, 1208)
+
+
+Polígon ID: 43
+Nombre de vèrtexs: 7
+Àrea: 3478 px²
+Perímetre: 554 px
+Centroide: (1664.3, 1216.3)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1683, 1162)
+  Vèrtex 2: (1666, 1171)
+  Vèrtex 3: (1667, 1200)
+  Vèrtex 4: (1643, 1194)
+  Vèrtex 5: (1627, 1210)
+  Vèrtex 6: (1673, 1221)
+  Vèrtex 7: (1691, 1356)
+
+
+Polígon ID: 44
+Nombre de vèrtexs: 5
+Àrea: 1040 px²
+Perímetre: 211 px
+Centroide: (2229.8, 1146.6)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2265, 1141)
+  Vèrtex 2: (2241, 1139)
+  Vèrtex 3: (2188, 1144)
+  Vèrtex 4: (2188, 1155)
+  Vèrtex 5: (2267, 1154)
+
+
+Polígon ID: 45
+Nombre de vèrtexs: 10
+Àrea: 204230 px²
+Perímetre: 6844 px
+Centroide: (2882.9, 1425.5)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (3307, 1133)
+  Vèrtex 2: (2726, 1128)
+  Vèrtex 3: (2664, 1581)
+  Vèrtex 4: (2464, 1650)
+  Vèrtex 5: (3307, 1730)
+  Vèrtex 6: (2686, 1522)
+  Vèrtex 7: (3120, 1606)
+  Vèrtex 8: (3149, 1301)
+  Vèrtex 9: (2717, 1405)
+  Vèrtex 10: (2689, 1199)
+
+
+Polígon ID: 46
+Nombre de vèrtexs: 5
+Àrea: 1256 px²
+Perímetre: 281 px
+Centroide: (1366.6, 1105.6)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1320, 1106)
+  Vèrtex 2: (1335, 1113)
+  Vèrtex 3: (1430, 1111)
+  Vèrtex 4: (1425, 1098)
+  Vèrtex 5: (1323, 1100)
+
+
+Polígon ID: 47
+Nombre de vèrtexs: 7
+Àrea: 5267 px²
+Perímetre: 399 px
+Centroide: (926.3, 1112.9)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (936, 1055)
+  Vèrtex 2: (900, 1075)
+  Vèrtex 3: (914, 1086)
+  Vèrtex 4: (898, 1115)
+  Vèrtex 5: (921, 1185)
+  Vèrtex 6: (950, 1161)
+  Vèrtex 7: (965, 1113)
+
+
+Polígon ID: 48
+Nombre de vèrtexs: 11
+Àrea: 1265 px²
+Perímetre: 321 px
+Centroide: (2076.2, 1073.3)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2082, 1041)
+  Vèrtex 2: (2057, 1051)
+  Vèrtex 3: (2061, 1063)
+  Vèrtex 4: (2049, 1078)
+  Vèrtex 5: (2068, 1110)
+  Vèrtex 6: (2079, 1090)
+  Vèrtex 7: (2099, 1093)
+  Vèrtex 8: (2110, 1078)
+  Vèrtex 9: (2106, 1069)
+  Vèrtex 10: (2061, 1080)
+  Vèrtex 11: (2066, 1053)
+
+
+Polígon ID: 49
+Nombre de vèrtexs: 12
+Àrea: 3128 px²
+Perímetre: 843 px
+Centroide: (2610.4, 1079.8)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2747, 1044)
+  Vèrtex 2: (2642, 1080)
+  Vèrtex 3: (2591, 1050)
+  Vèrtex 4: (2577, 1079)
+  Vèrtex 5: (2540, 1067)
+  Vèrtex 6: (2523, 1101)
+  Vèrtex 7: (2551, 1069)
+  Vèrtex 8: (2619, 1084)
+  Vèrtex 9: (2598, 1105)
+  Vèrtex 10: (2638, 1117)
+  Vèrtex 11: (2625, 1079)
+  Vèrtex 12: (2674, 1083)
+
+
+Polígon ID: 50
+Nombre de vèrtexs: 7
+Àrea: 9123 px²
+Perímetre: 1329 px
+Centroide: (2382.4, 1138.0)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2437, 1011)
+  Vèrtex 2: (2309, 1122)
+  Vèrtex 3: (2346, 1305)
+  Vèrtex 4: (2380, 1244)
+  Vèrtex 5: (2340, 1145)
+  Vèrtex 6: (2456, 1082)
+  Vèrtex 7: (2409, 1057)
+
+
+Polígon ID: 51
+Nombre de vèrtexs: 5
+Àrea: 1277 px²
+Perímetre: 275 px
+Centroide: (1168.2, 985.0)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1121, 984)
+  Vèrtex 2: (1141, 994)
+  Vèrtex 3: (1225, 991)
+  Vèrtex 4: (1229, 978)
+  Vèrtex 5: (1125, 978)
+
+
+Polígon ID: 52
+Nombre de vèrtexs: 8
+Àrea: 29835 px²
+Perímetre: 3350 px
+Centroide: (1929.4, 1545.0)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1945, 954)
+  Vèrtex 2: (2066, 1465)
+  Vèrtex 3: (1869, 1701)
+  Vèrtex 4: (1797, 1646)
+  Vèrtex 5: (1846, 1741)
+  Vèrtex 6: (1915, 1671)
+  Vèrtex 7: (1861, 1751)
+  Vèrtex 8: (2136, 1431)
+
+
+Polígon ID: 53
+Nombre de vèrtexs: 8
+Àrea: 1288 px²
+Perímetre: 298 px
+Centroide: (2114.6, 922.8)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2165, 914)
+  Vèrtex 2: (2062, 913)
+  Vèrtex 3: (2056, 925)
+  Vèrtex 4: (2078, 929)
+  Vèrtex 5: (2107, 919)
+  Vèrtex 6: (2139, 933)
+  Vèrtex 7: (2145, 924)
+  Vèrtex 8: (2165, 925)
+
+
+Polígon ID: 54
+Nombre de vèrtexs: 5
+Àrea: 14294 px²
+Perímetre: 1223 px
+Centroide: (789.6, 1103.6)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (851, 867)
+  Vèrtex 2: (711, 1196)
+  Vèrtex 3: (805, 1172)
+  Vèrtex 4: (762, 1145)
+  Vèrtex 5: (819, 1138)
+
+
+Polígon ID: 55
+Nombre de vèrtexs: 11
+Àrea: 1051 px²
+Perímetre: 290 px
+Centroide: (2517.7, 895.3)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2524, 865)
+  Vèrtex 2: (2520, 883)
+  Vèrtex 3: (2510, 888)
+  Vèrtex 4: (2508, 917)
+  Vèrtex 5: (2478, 906)
+  Vèrtex 6: (2500, 934)
+  Vèrtex 7: (2530, 898)
+  Vèrtex 8: (2540, 899)
+  Vèrtex 9: (2532, 888)
+  Vèrtex 10: (2523, 891)
+  Vèrtex 11: (2530, 879)
+
+
+Polígon ID: 56
+Nombre de vèrtexs: 8
+Àrea: 4844 px²
+Perímetre: 770 px
+Centroide: (1066.6, 982.5)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1151, 814)
+  Vèrtex 2: (1029, 937)
+  Vèrtex 3: (1049, 1063)
+  Vèrtex 4: (1083, 1052)
+  Vèrtex 5: (1063, 1049)
+  Vèrtex 6: (1062, 985)
+  Vèrtex 7: (1051, 1003)
+  Vèrtex 8: (1045, 957)
+
+
+Polígon ID: 57
+Nombre de vèrtexs: 9
+Àrea: 10570 px²
+Perímetre: 1417 px
+Centroide: (2263.4, 998.4)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2150, 792)
+  Vèrtex 2: (2284, 1054)
+  Vèrtex 3: (2206, 1082)
+  Vèrtex 4: (2278, 1065)
+  Vèrtex 5: (2306, 1108)
+  Vèrtex 6: (2346, 1069)
+  Vèrtex 7: (2260, 959)
+  Vèrtex 8: (2291, 919)
+  Vèrtex 9: (2250, 938)
+
+
+Polígon ID: 58
+Nombre de vèrtexs: 8
+Àrea: 49528 px²
+Perímetre: 4723 px
+Centroide: (1330.1, 1088.2)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1458, 765)
+  Vèrtex 2: (1588, 1081)
+  Vèrtex 3: (1318, 1036)
+  Vèrtex 4: (1088, 1229)
+  Vèrtex 5: (1057, 1067)
+  Vèrtex 6: (1070, 1376)
+  Vèrtex 7: (1325, 1054)
+  Vèrtex 8: (1737, 1098)
+
+
+Polígon ID: 59
+Nombre de vèrtexs: 7
+Àrea: 11785 px²
+Perímetre: 1139 px
+Centroide: (1762.6, 836.9)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1611, 735)
+  Vèrtex 2: (1677, 787)
+  Vèrtex 3: (1660, 804)
+  Vèrtex 4: (1759, 829)
+  Vèrtex 5: (1909, 959)
+  Vèrtex 6: (1934, 942)
+  Vèrtex 7: (1788, 802)
+
+
+Polígon ID: 60
+Nombre de vèrtexs: 7
+Àrea: 14454 px²
+Perímetre: 733 px
+Centroide: (947.4, 841.9)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (941, 692)
+  Vèrtex 2: (908, 860)
+  Vèrtex 3: (910, 934)
+  Vèrtex 4: (931, 958)
+  Vèrtex 5: (970, 925)
+  Vèrtex 6: (991, 803)
+  Vèrtex 7: (981, 721)
+
+
+Polígon ID: 61
+Nombre de vèrtexs: 6
+Àrea: 1380 px²
+Perímetre: 325 px
+Centroide: (1803.5, 669.7)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1868, 662)
+  Vèrtex 2: (1749, 666)
+  Vèrtex 3: (1756, 675)
+  Vèrtex 4: (1791, 675)
+  Vèrtex 5: (1796, 665)
+  Vèrtex 6: (1861, 675)
+
+
+Polígon ID: 62
+Nombre de vèrtexs: 9
+Àrea: 3613 px²
+Perímetre: 510 px
+Centroide: (2521.8, 707.9)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2519, 624)
+  Vèrtex 2: (2518, 700)
+  Vèrtex 3: (2497, 756)
+  Vèrtex 4: (2510, 756)
+  Vèrtex 5: (2517, 786)
+  Vèrtex 6: (2533, 782)
+  Vèrtex 7: (2539, 665)
+  Vèrtex 8: (2524, 666)
+  Vèrtex 9: (2539, 636)
+
+
+Polígon ID: 63
+Nombre de vèrtexs: 4
+Àrea: 1304 px²
+Perímetre: 273 px
+Centroide: (1109.5, 597.8)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1055, 593)
+  Vèrtex 2: (1057, 606)
+  Vèrtex 3: (1165, 600)
+  Vèrtex 4: (1161, 592)
+
+
+Polígon ID: 64
+Nombre de vèrtexs: 14
+Àrea: 1331 px²
+Perímetre: 420 px
+Centroide: (2404.8, 359.6)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2355, 365)
+  Vèrtex 2: (2375, 381)
+  Vèrtex 3: (2424, 365)
+  Vèrtex 4: (2449, 372)
+  Vèrtex 5: (2429, 360)
+  Vèrtex 6: (2429, 342)
+  Vèrtex 7: (2409, 342)
+  Vèrtex 8: (2412, 351)
+  Vèrtex 9: (2402, 338)
+  Vèrtex 10: (2401, 352)
+  Vèrtex 11: (2423, 358)
+  Vèrtex 12: (2408, 370)
+  Vèrtex 13: (2379, 362)
+  Vèrtex 14: (2372, 377)
+
+
+Polígon ID: 65
+Nombre de vèrtexs: 10
+Àrea: 4219 px²
+Perímetre: 527 px
+Centroide: (2532.3, 421.0)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2532, 329)
+  Vèrtex 2: (2519, 338)
+  Vèrtex 3: (2530, 381)
+  Vèrtex 4: (2514, 415)
+  Vèrtex 5: (2527, 531)
+  Vèrtex 6: (2542, 517)
+  Vèrtex 7: (2532, 468)
+  Vèrtex 8: (2544, 461)
+  Vèrtex 9: (2535, 400)
+  Vèrtex 10: (2548, 370)
+
+
+Polígon ID: 66
+Nombre de vèrtexs: 9
+Àrea: 1337 px²
+Perímetre: 298 px
+Centroide: (2400.6, 301.0)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2351, 299)
+  Vèrtex 2: (2352, 308)
+  Vèrtex 3: (2371, 313)
+  Vèrtex 4: (2459, 307)
+  Vèrtex 5: (2457, 295)
+  Vèrtex 6: (2418, 295)
+  Vèrtex 7: (2411, 305)
+  Vèrtex 8: (2408, 296)
+  Vèrtex 9: (2378, 291)
+
+
+Polígon ID: 67
+Nombre de vèrtexs: 4
+Àrea: 7329 px²
+Perímetre: 751 px
+Centroide: (2334.2, 255.2)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2192, 258)
+  Vèrtex 2: (2484, 275)
+  Vèrtex 3: (2459, 249)
+  Vèrtex 4: (2202, 239)
+
+
+Polígon ID: 68
+Nombre de vèrtexs: 4
+Àrea: 1656 px²
+Perímetre: 227 px
+Centroide: (2147.5, 250.2)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2101, 238)
+  Vèrtex 2: (2132, 263)
+  Vèrtex 3: (2181, 261)
+  Vèrtex 4: (2176, 239)
+
+
+Polígon ID: 69
+Nombre de vèrtexs: 5
+Àrea: 3264 px²
+Perímetre: 516 px
+Centroide: (1986.8, 243.8)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1912, 252)
+  Vèrtex 2: (2090, 259)
+  Vèrtex 3: (2031, 233)
+  Vèrtex 4: (1954, 243)
+  Vèrtex 5: (1947, 232)
+
+
+Polígon ID: 70
+Nombre de vèrtexs: 4
+Àrea: 989098 px²
+Perímetre: 6974 px
+Centroide: (231.0, 1201.8)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (50, 48)
+  Vèrtex 2: (0, 2337)
+  Vèrtex 3: (291, 2337)
+  Vèrtex 4: (583, 85)
+
+
+Polígon ID: 71
+Nombre de vèrtexs: 11
+Àrea: 2872 px²
+Perímetre: 732 px
+Centroide: (2753.3, 39.6)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2635, 11)
+  Vèrtex 2: (2703, 41)
+  Vèrtex 3: (2717, 27)
+  Vèrtex 4: (2738, 46)
+  Vèrtex 5: (2704, 51)
+  Vèrtex 6: (2840, 62)
+  Vèrtex 7: (2835, 41)
+  Vèrtex 8: (2811, 56)
+  Vèrtex 9: (2781, 29)
+  Vèrtex 10: (2775, 50)
+  Vèrtex 11: (2747, 22)
+
+
+Polígon ID: 72
+Nombre de vèrtexs: 8
+Àrea: 1152 px²
+Perímetre: 344 px
+Centroide: (2610.0, 27.2)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2572, 13)
+  Vèrtex 2: (2583, 26)
+  Vèrtex 3: (2611, 25)
+  Vèrtex 4: (2596, 40)
+  Vèrtex 5: (2668, 46)
+  Vèrtex 6: (2615, 35)
+  Vèrtex 7: (2629, 23)
+  Vèrtex 8: (2606, 10)
+
+
+Polígon ID: 73
+Nombre de vèrtexs: 6
+Àrea: 6295 px²
+Perímetre: 923 px
+Centroide: (2906.0, 86.7)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2810, 0)
+  Vèrtex 2: (2814, 39)
+  Vèrtex 3: (2890, 68)
+  Vèrtex 4: (2978, 191)
+  Vèrtex 5: (2956, 108)
+  Vèrtex 6: (2988, 114)
+
+
+Polígon ID: 74
+Nombre de vèrtexs: 10
+Àrea: 5842 px²
+Perímetre: 1098 px
+Centroide: (2390.2, 22.7)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2235, 5)
+  Vèrtex 2: (2282, 13)
+  Vèrtex 3: (2282, 47)
+  Vèrtex 4: (2294, 13)
+  Vèrtex 5: (2400, 22)
+  Vèrtex 6: (2400, 50)
+  Vèrtex 7: (2416, 14)
+  Vèrtex 8: (2589, 38)
+  Vèrtex 9: (2497, 25)
+  Vèrtex 10: (2507, 0)
+
+
+Polígon ID: 75
+Nombre de vèrtexs: 7
+Àrea: 6612 px²
+Perímetre: 1349 px
+Centroide: (1983.0, 91.1)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1772, 7)
+  Vèrtex 2: (1856, 120)
+  Vèrtex 3: (1974, 152)
+  Vèrtex 4: (2102, 101)
+  Vèrtex 5: (2169, 0)
+  Vèrtex 6: (2063, 116)
+  Vèrtex 7: (1945, 142)
+
+
+Polígon ID: 76
+Nombre de vèrtexs: 7
+Àrea: 605855 px²
+Perímetre: 19889 px
+Centroide: (1246.3, 541.3)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (446, 1234)
+  Vèrtex 2: (950, 191)
+  Vèrtex 3: (1027, 924)
+  Vèrtex 4: (2134, 785)
+  Vèrtex 5: (1522, 420)
+  Vèrtex 6: (2035, 151)
+  Vèrtex 7: (610, 84)
+
+
+Polígon ID: 77
+Nombre de vèrtexs: 3
+Àrea: 35296 px²
+Perímetre: 2198 px
+Centroide: (572.0, 18.7)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (0, 0)
+  Vèrtex 2: (870, 56)
+  Vèrtex 3: (846, 0)
+
+
+==================================================
+
+TIPUS D'ESPAI AERI: DANGER_AREAS
+----------------------------------------
+
+Polígon ID: 1
+Nombre de vèrtexs: 11
+Àrea: 1026 px²
+Perímetre: 190 px
+Centroide: (2673.7, 2175.9)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2659, 2155)
+  Vèrtex 2: (2652, 2165)
+  Vèrtex 3: (2662, 2173)
+  Vèrtex 4: (2668, 2195)
+  Vèrtex 5: (2691, 2203)
+  Vèrtex 6: (2695, 2194)
+  Vèrtex 7: (2691, 2169)
+  Vèrtex 8: (2676, 2169)
+  Vèrtex 9: (2675, 2178)
+  Vèrtex 10: (2670, 2172)
+  Vèrtex 11: (2672, 2162)
+
+
+Polígon ID: 2
+Nombre de vèrtexs: 12
+Àrea: 1631 px²
+Perímetre: 303 px
+Centroide: (3171.1, 2192.2)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (3155, 2151)
+  Vèrtex 2: (3155, 2172)
+  Vèrtex 3: (3142, 2182)
+  Vèrtex 4: (3154, 2190)
+  Vèrtex 5: (3150, 2202)
+  Vèrtex 6: (3162, 2207)
+  Vèrtex 7: (3166, 2227)
+  Vèrtex 8: (3176, 2199)
+  Vèrtex 9: (3197, 2206)
+  Vèrtex 10: (3213, 2198)
+  Vèrtex 11: (3208, 2188)
+  Vèrtex 12: (3175, 2185)
+
+
+Polígon ID: 3
+Nombre de vèrtexs: 13
+Àrea: 1065 px²
+Perímetre: 227 px
+Centroide: (3193.3, 2156.7)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (3201, 2136)
+  Vèrtex 2: (3187, 2153)
+  Vèrtex 3: (3181, 2143)
+  Vèrtex 4: (3171, 2147)
+  Vèrtex 5: (3174, 2174)
+  Vèrtex 6: (3186, 2183)
+  Vèrtex 7: (3211, 2175)
+  Vèrtex 8: (3199, 2168)
+  Vèrtex 9: (3204, 2159)
+  Vèrtex 10: (3192, 2158)
+  Vèrtex 11: (3204, 2153)
+  Vèrtex 12: (3198, 2146)
+  Vèrtex 13: (3205, 2142)
+
+
+Polígon ID: 4
+Nombre de vèrtexs: 13
+Àrea: 1442 px²
+Perímetre: 239 px
+Centroide: (836.4, 2120.2)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (826, 2091)
+  Vèrtex 2: (823, 2116)
+  Vèrtex 3: (812, 2125)
+  Vèrtex 4: (814, 2138)
+  Vèrtex 5: (829, 2146)
+  Vèrtex 6: (838, 2135)
+  Vèrtex 7: (859, 2146)
+  Vèrtex 8: (858, 2132)
+  Vèrtex 9: (840, 2127)
+  Vèrtex 10: (846, 2119)
+  Vèrtex 11: (840, 2104)
+  Vèrtex 12: (849, 2096)
+  Vèrtex 13: (839, 2088)
+
+
+Polígon ID: 5
+Nombre de vèrtexs: 11
+Àrea: 2160 px²
+Perímetre: 267 px
+Centroide: (2498.4, 1974.1)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2463, 1972)
+  Vèrtex 2: (2466, 1982)
+  Vèrtex 3: (2508, 2006)
+  Vèrtex 4: (2522, 2005)
+  Vèrtex 5: (2533, 1978)
+  Vèrtex 6: (2518, 1973)
+  Vèrtex 7: (2515, 1958)
+  Vèrtex 8: (2498, 1964)
+  Vèrtex 9: (2497, 1951)
+  Vèrtex 10: (2477, 1957)
+  Vèrtex 11: (2485, 1969)
+
+
+Polígon ID: 6
+Nombre de vèrtexs: 10
+Àrea: 1170 px²
+Perímetre: 221 px
+Centroide: (1972.8, 1892.6)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1949, 1875)
+  Vèrtex 2: (1958, 1905)
+  Vèrtex 3: (1975, 1898)
+  Vèrtex 4: (1978, 1902)
+  Vèrtex 5: (1968, 1905)
+  Vèrtex 6: (1974, 1910)
+  Vèrtex 7: (2003, 1896)
+  Vèrtex 8: (1981, 1880)
+  Vèrtex 9: (1972, 1885)
+  Vèrtex 10: (1970, 1870)
+
+
+Polígon ID: 7
+Nombre de vèrtexs: 10
+Àrea: 1401 px²
+Perímetre: 247 px
+Centroide: (880.3, 1716.0)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (894, 1691)
+  Vèrtex 2: (888, 1700)
+  Vèrtex 3: (879, 1691)
+  Vèrtex 4: (850, 1712)
+  Vèrtex 5: (870, 1746)
+  Vèrtex 6: (887, 1738)
+  Vèrtex 7: (873, 1730)
+  Vèrtex 8: (875, 1720)
+  Vèrtex 9: (884, 1724)
+  Vèrtex 10: (903, 1708)
+
+
+Polígon ID: 8
+Nombre de vèrtexs: 14
+Àrea: 1055 px²
+Perímetre: 191 px
+Centroide: (1083.9, 1693.5)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1065, 1670)
+  Vèrtex 2: (1066, 1682)
+  Vèrtex 3: (1060, 1689)
+  Vèrtex 4: (1069, 1696)
+  Vèrtex 5: (1071, 1708)
+  Vèrtex 6: (1091, 1707)
+  Vèrtex 7: (1102, 1714)
+  Vèrtex 8: (1105, 1709)
+  Vèrtex 9: (1097, 1707)
+  Vèrtex 10: (1103, 1702)
+  Vèrtex 11: (1101, 1688)
+  Vèrtex 12: (1090, 1680)
+  Vèrtex 13: (1081, 1686)
+  Vèrtex 14: (1073, 1671)
+
+
+Polígon ID: 9
+Nombre de vèrtexs: 10
+Àrea: 1308 px²
+Perímetre: 269 px
+Centroide: (833.3, 1676.2)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (873, 1666)
+  Vèrtex 2: (853, 1653)
+  Vèrtex 3: (819, 1655)
+  Vèrtex 4: (801, 1689)
+  Vèrtex 5: (801, 1715)
+  Vèrtex 6: (807, 1691)
+  Vèrtex 7: (825, 1687)
+  Vèrtex 8: (834, 1667)
+  Vèrtex 9: (854, 1664)
+  Vèrtex 10: (866, 1675)
+
+
+Polígon ID: 10
+Nombre de vèrtexs: 8
+Àrea: 1016 px²
+Perímetre: 211 px
+Centroide: (1001.0, 1565.1)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (967, 1549)
+  Vèrtex 2: (1006, 1589)
+  Vèrtex 3: (1015, 1589)
+  Vèrtex 4: (1022, 1576)
+  Vèrtex 5: (1009, 1574)
+  Vèrtex 6: (995, 1557)
+  Vèrtex 7: (1007, 1537)
+  Vèrtex 8: (987, 1550)
+
+
+Polígon ID: 11
+Nombre de vèrtexs: 11
+Àrea: 1808 px²
+Perímetre: 260 px
+Centroide: (1460.5, 1537.1)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1423, 1529)
+  Vèrtex 2: (1431, 1546)
+  Vèrtex 3: (1446, 1541)
+  Vèrtex 4: (1463, 1555)
+  Vèrtex 5: (1473, 1551)
+  Vèrtex 6: (1502, 1564)
+  Vèrtex 7: (1494, 1543)
+  Vèrtex 8: (1468, 1530)
+  Vèrtex 9: (1471, 1517)
+  Vèrtex 10: (1451, 1510)
+  Vèrtex 11: (1443, 1522)
+
+
+Polígon ID: 12
+Nombre de vèrtexs: 9
+Àrea: 1916 px²
+Perímetre: 230 px
+Centroide: (954.7, 1506.8)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (928, 1488)
+  Vèrtex 2: (923, 1511)
+  Vèrtex 3: (953, 1541)
+  Vèrtex 4: (970, 1539)
+  Vèrtex 5: (979, 1505)
+  Vèrtex 6: (962, 1509)
+  Vèrtex 7: (957, 1494)
+  Vèrtex 8: (963, 1489)
+  Vèrtex 9: (957, 1485)
+
+
+Polígon ID: 13
+Nombre de vèrtexs: 10
+Àrea: 2264 px²
+Perímetre: 242 px
+Centroide: (1599.0, 1498.9)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1637, 1481)
+  Vèrtex 2: (1601, 1465)
+  Vèrtex 3: (1583, 1492)
+  Vèrtex 4: (1570, 1493)
+  Vèrtex 5: (1578, 1498)
+  Vèrtex 6: (1572, 1520)
+  Vèrtex 7: (1589, 1525)
+  Vèrtex 8: (1602, 1512)
+  Vèrtex 9: (1621, 1509)
+  Vèrtex 10: (1637, 1494)
+
+
+Polígon ID: 14
+Nombre de vèrtexs: 10
+Àrea: 1660 px²
+Perímetre: 292 px
+Centroide: (2915.8, 1388.8)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2886, 1371)
+  Vèrtex 2: (2894, 1381)
+  Vèrtex 3: (2886, 1391)
+  Vèrtex 4: (2891, 1397)
+  Vèrtex 5: (2910, 1389)
+  Vèrtex 6: (2939, 1414)
+  Vèrtex 7: (2958, 1404)
+  Vèrtex 8: (2932, 1403)
+  Vèrtex 9: (2946, 1379)
+  Vèrtex 10: (2916, 1359)
+
+
+Polígon ID: 15
+Nombre de vèrtexs: 9
+Àrea: 1066 px²
+Perímetre: 177 px
+Centroide: (1332.1, 1346.8)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1333, 1321)
+  Vèrtex 2: (1327, 1328)
+  Vèrtex 3: (1330, 1341)
+  Vèrtex 4: (1314, 1350)
+  Vèrtex 5: (1312, 1362)
+  Vèrtex 6: (1330, 1360)
+  Vèrtex 7: (1342, 1373)
+  Vèrtex 8: (1357, 1346)
+  Vèrtex 9: (1344, 1340)
+
+
+Polígon ID: 16
+Nombre de vèrtexs: 8
+Àrea: 4162 px²
+Perímetre: 394 px
+Centroide: (1656.0, 1335.0)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1671, 1290)
+  Vèrtex 2: (1655, 1296)
+  Vèrtex 3: (1665, 1301)
+  Vèrtex 4: (1649, 1320)
+  Vèrtex 5: (1655, 1337)
+  Vèrtex 6: (1612, 1357)
+  Vèrtex 7: (1656, 1418)
+  Vèrtex 8: (1685, 1361)
+
+
+Polígon ID: 17
+Nombre de vèrtexs: 11
+Àrea: 24542 px²
+Perímetre: 1772 px
+Centroide: (1537.4, 1405.8)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1621, 1334)
+  Vèrtex 2: (1520, 1286)
+  Vèrtex 3: (1465, 1348)
+  Vèrtex 4: (1474, 1408)
+  Vèrtex 5: (1530, 1398)
+  Vèrtex 6: (1419, 1490)
+  Vèrtex 7: (1494, 1444)
+  Vèrtex 8: (1562, 1503)
+  Vèrtex 9: (1610, 1403)
+  Vèrtex 10: (1645, 1460)
+  Vèrtex 11: (1571, 1390)
+
+
+Polígon ID: 18
+Nombre de vèrtexs: 10
+Àrea: 1251 px²
+Perímetre: 227 px
+Centroide: (1456.3, 1296.4)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1435, 1284)
+  Vèrtex 2: (1429, 1311)
+  Vèrtex 3: (1437, 1316)
+  Vèrtex 4: (1470, 1315)
+  Vèrtex 5: (1454, 1290)
+  Vèrtex 6: (1459, 1284)
+  Vèrtex 7: (1474, 1302)
+  Vèrtex 8: (1479, 1300)
+  Vèrtex 9: (1478, 1283)
+  Vèrtex 10: (1448, 1279)
+
+
+Polígon ID: 19
+Nombre de vèrtexs: 8
+Àrea: 2055 px²
+Perímetre: 309 px
+Centroide: (1413.8, 1264.8)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1449, 1253)
+  Vèrtex 2: (1433, 1252)
+  Vèrtex 3: (1426, 1264)
+  Vèrtex 4: (1400, 1248)
+  Vèrtex 5: (1343, 1263)
+  Vèrtex 6: (1401, 1288)
+  Vèrtex 7: (1418, 1273)
+  Vèrtex 8: (1440, 1277)
+
+
+Polígon ID: 20
+Nombre de vèrtexs: 10
+Àrea: 1559 px²
+Perímetre: 205 px
+Centroide: (2033.4, 1258.7)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2022, 1231)
+  Vèrtex 2: (2009, 1256)
+  Vèrtex 3: (2012, 1285)
+  Vèrtex 4: (2046, 1286)
+  Vèrtex 5: (2051, 1279)
+  Vèrtex 6: (2037, 1264)
+  Vèrtex 7: (2045, 1259)
+  Vèrtex 8: (2037, 1252)
+  Vèrtex 9: (2040, 1242)
+  Vèrtex 10: (2035, 1233)
+
+
+Polígon ID: 21
+Nombre de vèrtexs: 11
+Àrea: 1226 px²
+Perímetre: 224 px
+Centroide: (1707.8, 1208.4)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1713, 1178)
+  Vèrtex 2: (1706, 1197)
+  Vèrtex 3: (1699, 1199)
+  Vèrtex 4: (1689, 1190)
+  Vèrtex 5: (1687, 1203)
+  Vèrtex 6: (1692, 1218)
+  Vèrtex 7: (1704, 1218)
+  Vèrtex 8: (1723, 1247)
+  Vèrtex 9: (1729, 1222)
+  Vèrtex 10: (1720, 1214)
+  Vèrtex 11: (1724, 1206)
+
+
+Polígon ID: 22
+Nombre de vèrtexs: 13
+Àrea: 1614 px²
+Perímetre: 345 px
+Centroide: (1527.0, 1217.3)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1510, 1171)
+  Vèrtex 2: (1499, 1181)
+  Vèrtex 3: (1523, 1214)
+  Vèrtex 4: (1521, 1232)
+  Vèrtex 5: (1506, 1244)
+  Vèrtex 6: (1535, 1256)
+  Vèrtex 7: (1523, 1233)
+  Vèrtex 8: (1541, 1240)
+  Vèrtex 9: (1539, 1225)
+  Vèrtex 10: (1551, 1213)
+  Vèrtex 11: (1541, 1220)
+  Vèrtex 12: (1528, 1213)
+  Vèrtex 13: (1534, 1183)
+
+
+Polígon ID: 23
+Nombre de vèrtexs: 13
+Àrea: 2424 px²
+Perímetre: 594 px
+Centroide: (3220.1, 814.5)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (3213, 775)
+  Vèrtex 2: (3198, 807)
+  Vèrtex 3: (3220, 818)
+  Vèrtex 4: (3186, 795)
+  Vèrtex 5: (3176, 831)
+  Vèrtex 6: (3227, 823)
+  Vèrtex 7: (3229, 866)
+  Vèrtex 8: (3247, 847)
+  Vèrtex 9: (3242, 813)
+  Vèrtex 10: (3227, 820)
+  Vèrtex 11: (3208, 796)
+  Vèrtex 12: (3243, 806)
+  Vèrtex 13: (3245, 791)
+
+
+Polígon ID: 24
+Nombre de vèrtexs: 8
+Àrea: 1094 px²
+Perímetre: 210 px
+Centroide: (2551.2, 11.2)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2518, 13)
+  Vèrtex 2: (2525, 23)
+  Vèrtex 3: (2536, 24)
+  Vèrtex 4: (2557, 17)
+  Vèrtex 5: (2567, 5)
+  Vèrtex 6: (2582, 8)
+  Vèrtex 7: (2602, 0)
+  Vèrtex 8: (2523, 0)
+
+
+==================================================
+
+TIPUS D'ESPAI AERI: PROHIBITED_AREAS
+----------------------------------------
+
+Polígon ID: 3
+Nombre de vèrtexs: 4
+Àrea: 7536 px²
+Perímetre: 1511 px
+Centroide: (2336.0, 2203.2)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2085, 1906)
+  Vèrtex 2: (2429, 2284)
+  Vèrtex 3: (2390, 2337)
+  Vèrtex 4: (2440, 2286)
+
+
+Polígon ID: 4
+Nombre de vèrtexs: 11
+Àrea: 1520 px²
+Perímetre: 570 px
+Centroide: (1845.8, 1763.3)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1876, 1716)
+  Vèrtex 2: (1847, 1743)
+  Vèrtex 3: (1831, 1738)
+  Vèrtex 4: (1843, 1749)
+  Vèrtex 5: (1764, 1840)
+  Vèrtex 6: (1831, 1768)
+  Vèrtex 7: (1833, 1787)
+  Vèrtex 8: (1843, 1767)
+  Vèrtex 9: (1891, 1777)
+  Vèrtex 10: (1892, 1762)
+  Vèrtex 11: (1853, 1749)
+
+
+Polígon ID: 5
+Nombre de vèrtexs: 14
+Àrea: 4573 px²
+Perímetre: 1364 px
+Centroide: (1056.4, 1651.7)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1206, 1530)
+  Vèrtex 2: (1179, 1509)
+  Vèrtex 3: (1067, 1640)
+  Vèrtex 4: (1040, 1618)
+  Vèrtex 5: (1019, 1676)
+  Vèrtex 6: (899, 1732)
+  Vèrtex 7: (937, 1773)
+  Vèrtex 8: (990, 1705)
+  Vèrtex 9: (1015, 1723)
+  Vèrtex 10: (1004, 1695)
+  Vèrtex 11: (1084, 1670)
+  Vèrtex 12: (1068, 1640)
+  Vèrtex 13: (1129, 1597)
+  Vèrtex 14: (1153, 1616)
+
+
+Polígon ID: 6
+Nombre de vèrtexs: 17
+Àrea: 3454 px²
+Perímetre: 1035 px
+Centroide: (1327.2, 1436.2)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1464, 1326)
+  Vèrtex 2: (1340, 1418)
+  Vèrtex 3: (1317, 1396)
+  Vèrtex 4: (1334, 1425)
+  Vèrtex 5: (1271, 1474)
+  Vèrtex 6: (1245, 1454)
+  Vèrtex 7: (1265, 1480)
+  Vèrtex 8: (1218, 1520)
+  Vèrtex 9: (1268, 1486)
+  Vèrtex 10: (1290, 1504)
+  Vèrtex 11: (1273, 1480)
+  Vèrtex 12: (1338, 1430)
+  Vèrtex 13: (1360, 1448)
+  Vèrtex 14: (1344, 1422)
+  Vèrtex 15: (1391, 1385)
+  Vèrtex 16: (1429, 1397)
+  Vèrtex 17: (1416, 1371)
+
+
+Polígon ID: 7
+Nombre de vèrtexs: 4
+Àrea: 5864 px²
+Perímetre: 1786 px
+Centroide: (1617.0, 1204.5)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (1837, 1030)
+  Vèrtex 2: (1664, 1121)
+  Vèrtex 3: (1465, 1324)
+  Vèrtex 4: (1502, 1343)
+
+
+Polígon ID: 8
+Nombre de vèrtexs: 12
+Àrea: 3074 px²
+Perímetre: 1056 px
+Centroide: (1992.1, 905.2)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2108, 815)
+  Vèrtex 2: (2079, 793)
+  Vèrtex 3: (2091, 826)
+  Vèrtex 4: (1967, 923)
+  Vèrtex 5: (1939, 908)
+  Vèrtex 6: (1956, 930)
+  Vèrtex 7: (1838, 1028)
+  Vèrtex 8: (1910, 1007)
+  Vèrtex 9: (1900, 980)
+  Vèrtex 10: (2028, 881)
+  Vèrtex 11: (2052, 898)
+  Vèrtex 12: (2037, 873)
+
+
+Polígon ID: 9
+Nombre de vèrtexs: 10
+Àrea: 1814 px²
+Perímetre: 525 px
+Centroide: (2186.4, 754.4)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2255, 725)
+  Vèrtex 2: (2236, 705)
+  Vèrtex 3: (2171, 761)
+  Vèrtex 4: (2150, 742)
+  Vèrtex 5: (2165, 766)
+  Vèrtex 6: (2114, 809)
+  Vèrtex 7: (2167, 773)
+  Vèrtex 8: (2188, 787)
+  Vèrtex 9: (2179, 760)
+  Vèrtex 10: (2239, 716)
+
+
+Polígon ID: 10
+Nombre de vèrtexs: 4
+Àrea: 1650 px²
+Perímetre: 696 px
+Centroide: (2034.0, 126.8)
+Coordenades dels vèrtexs:
+  Vèrtex 1: (2159, 60)
+  Vèrtex 2: (2028, 146)
+  Vèrtex 3: (1908, 149)
+  Vèrtex 4: (2041, 152)
+
+
+==================================================
+

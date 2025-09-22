@@ -1,0 +1,10 @@
+RESUM DE DETECCIÓ DE POLÍGONS
+========================================
+
+RESTRICTED_AIRSPACE: 21 polígons
+CONTROLLED_AIRSPACE: 76 polígons
+DANGER_AREAS: 24 polígons
+PROHIBITED_AREAS: 8 polígons
+
+TOTAL: 129 polígons detectats
+Imatge original: 3308x2338 píxels
