@@ -1,5 +1,3 @@
-#Projecte descontinuat
-
 # Eina de Preprocessament de Cartes VFR
 
 Una eina Python completa per al preprocessament de cartes VFR (Visual Flight Rules) utilitzant només OpenCV. Aquesta eina realitza tots els passos essencials de preprocessament necessaris per preparar cartes d'aviació per a anàlisi posterior, OCR o mapatge de coordenades.
