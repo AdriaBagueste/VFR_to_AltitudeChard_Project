@@ -1,75 +1,75 @@
-# Projecte descontinuat
+# Discontinued Project
 
-## Eina de Preprocessament de Cartes VFR
+## VFR Chart Preprocessing Tool
 
-Una eina Python completa per al preprocessament de cartes VFR (Visual Flight Rules) utilitzant només OpenCV. Aquesta eina realitza tots els passos essencials de preprocessament necessaris per preparar cartes d'aviació per a anàlisi posterior, OCR o mapatge de coordenades.
+A complete Python tool for preprocessing VFR (Visual Flight Rules) charts using only OpenCV. This tool performs all the essential preprocessing steps needed to prepare aviation charts for further analysis, OCR, or coordinate mapping.
 
-## Característiques
+## Features
 
-L'eina realitza els següents passos de preprocessament en seqüència:
+The tool performs the following preprocessing steps in sequence:
 
-1. **Càrrega d'imatge d'alta resolució** - Suporta formats PNG/TIFF
-2. **Conversió a escala de grisos** - Converteix a escala de grisos per a anàlisi
-3. **Conversió d'espai de color HSV** - Per a segmentació basada en color
-4. **Reducció de soroll** - Filtres de desenfocament gaussià i mediana
-5. **Umbralització/Binarització** - Umbralització bàsica i adaptativa
-6. **Detecció de vores** - Algoritme de detecció de vores Canny
-7. **Operacions morfològiques** - Dilatació, erosió, obertura, tancament
-8. **Detecció de contorns** - Trobar i extreure contorns
-9. **Aproximació de polígons** - Aproximar contorns com a polígons
-10. **Segmentació de color** - Segmentar classes d'espai aeri per color
-11. **Retallada de caixes d'informació** - Extreure àrees específiques de la carta
-12. **Millora de text** - Preparar àrees de text per a OCR
-13. **Mapatge de coordenades** - Mapejar coordenades de píxels a lat/lon
+1. **High-resolution image loading** - Supports PNG/TIFF formats
+2. **Grayscale conversion** - Convert to grayscale for analysis
+3. **HSV color space conversion** - For color-based segmentation
+4. **Noise reduction** - Gaussian and median blur filters
+5. **Thresholding/Binarization** - Basic and adaptive thresholding
+6. **Edge detection** - Canny edge detection algorithm
+7. **Morphological operations** - Dilation, erosion, opening, closing
+8. **Contour detection** - Find and extract contours
+9. **Polygon approximation** - Approximate contours as polygons
+10. **Color segmentation** - Segment airspace classes by color
+11. **Information box cropping** - Extract specific areas of the chart
+12. **Text enhancement** - Prepare text areas for OCR
+13. **Coordinate mapping** - Map pixel coordinates to lat/lon
 
-## Instal·lació
+## Installation
 
-1. Instal·la les dependències necessàries:
+1. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-## Ús
+## Usage
 
-### Ús Bàsic
+### Basic Usage
 
 ```python
 from chart_preprocessing import ChartPreprocessor
 
-# Inicialitza amb la teva imatge de carta VFR
+# Initialize with your VFR chart image
 preprocessor = ChartPreprocessor("your_chart.png", "output_folder")
 
-# Executa el pipeline complet de preprocessament
+# Run the full preprocessing pipeline
 preprocessor.run_full_pipeline()
 ```
 
-### Ús Avançat amb Paràmetres Personalitzats
+### Advanced Usage with Custom Parameters
 
 ```python
 from chart_preprocessing import ChartPreprocessor
 
-# Defineix els rangs de color per a la segmentació d'espai aeri (valors HSV)
+# Define color ranges for airspace segmentation (HSV values)
 airspace_colors = {
-    "restricted_airspace": ([0, 50, 50], [10, 255, 255]),      # Vermell
-    "controlled_airspace": ([100, 50, 50], [130, 255, 255]),   # Blau
-    "uncontrolled_airspace": ([40, 50, 50], [80, 255, 255]),   # Verd
+    "restricted_airspace": ([0, 50, 50], [10, 255, 255]),      # Red
+    "controlled_airspace": ([100, 50, 50], [130, 255, 255]),   # Blue
+    "uncontrolled_airspace": ([40, 50, 50], [80, 255, 255]),   # Green
 }
 
-# Defineix els límits geogràfics de la carta
+# Define the chart's geographic bounds
 chart_bounds = {
-    "north": 45.2,    # Latitud més septentrional
-    "south": 44.5,    # Latitud més meridional
-    "east": -0.3,     # Longitud més oriental
-    "west": -1.0      # Longitud més occidental
+    "north": 45.2,    # Northernmost latitude
+    "south": 44.5,    # Southernmost latitude
+    "east": -0.3,     # Easternmost longitude
+    "west": -1.0      # Westernmost longitude
 }
 
-# Defineix les àrees a retallar per a anàlisi
+# Define areas to crop for analysis
 info_boxes = [
-    (50, 50, 200, 100),      # Títol de la carta
-    (300, 400, 150, 80),     # Llegenda
+    (50, 50, 200, 100),      # Chart title
+    (300, 400, 150, 80),     # Legend
 ]
 
-# Inicialitza i executa
+# Initialize and run
 preprocessor = ChartPreprocessor("VFR-BORDEAUX.png")
 preprocessor.run_full_pipeline(
     chart_bounds=chart_bounds,
@@ -78,99 +78,99 @@ preprocessor.run_full_pipeline(
 )
 ```
 
-### Executar l'Exemple
+### Run the Example
 
 ```bash
 python example_usage.py
 ```
 
-## Estructura de Sortida
+## Output Structure
 
-L'eina crea una carpeta de sortida estructurada amb les següents subcarpetes:
+The tool creates a structured output folder with the following subfolders:
 
 ```
 preprocessing_steps/
-├── 01_original/              # Imatge original
-├── 02_grayscale/             # Conversió a escala de grisos
-├── 03_hsv/                   # Espai de color HSV
-├── 04_noise_reduction_gaussian/  # Desenfocament gaussià
-├── 05_noise_reduction_median/    # Desenfocament mediana
-├── 06_thresholding/          # Umbralització bàsica
-├── 07_binarization/          # Umbralització adaptativa
-├── 08_edge_detection/        # Detecció de vores Canny
-├── 09_morphological_dilate/  # Dilatació
-├── 10_morphological_erode/   # Erosió
-├── 11_morphological_open/    # Obertura
-├── 12_morphological_close/   # Tancament
-├── 13_contours/              # Contorns detectats
-├── 14_polygon_approximation/ # Aproximació de polígons
-├── 15_color_segmentation/    # Segmentació basada en color
+├── 01_original/              # Original image
+├── 02_grayscale/             # Grayscale conversion
+├── 03_hsv/                   # HSV color space
+├── 04_noise_reduction_gaussian/  # Gaussian blur
+├── 05_noise_reduction_median/    # Median blur
+├── 06_thresholding/          # Basic thresholding
+├── 07_binarization/          # Adaptive thresholding
+├── 08_edge_detection/        # Canny edge detection
+├── 09_morphological_dilate/  # Dilation
+├── 10_morphological_erode/   # Erosion
+├── 11_morphological_open/    # Opening
+├── 12_morphological_close/   # Closing
+├── 13_contours/              # Detected contours
+├── 14_polygon_approximation/ # Polygon approximation
+├── 15_color_segmentation/    # Color-based segmentation
 │   ├── restricted_airspace/
 │   ├── controlled_airspace/
 │   └── uncontrolled_airspace/
-├── 16_cropped_info_boxes/    # Àrees d'informació retallades
-├── 17_text_enhancement/      # Millora de text per a OCR
-└── 18_coordinate_mapping/    # Mapatge de píxels a lat/lon
+├── 16_cropped_info_boxes/    # Cropped information areas
+├── 17_text_enhancement/      # Text enhancement for OCR
+└── 18_coordinate_mapping/    # Mapping pixels to lat/lon
 ```
 
-## Personalització
+## Customization
 
-### Segmentació de Color
+### Color Segmentation
 
-Ajusta els rangs de color HSV al diccionari `airspace_colors` per coincidir amb els colors específics de la teva carta:
+Adjust the HSV color ranges in the `airspace_colors` dictionary to match your chart's specific colors:
 
 ```python
 airspace_colors = {
-    "restricted_airspace": ([0, 50, 50], [10, 255, 255]),    # Àrees vermelles
-    "controlled_airspace": ([100, 50, 50], [130, 255, 255]), # Àrees blaves
-    # Afegeix més rangs de color segons sigui necessari
+    "restricted_airspace": ([0, 50, 50], [10, 255, 255]),    # Red areas
+    "controlled_airspace": ([100, 50, 50], [130, 255, 255]), # Blue areas
+    # Add more color ranges as needed
 }
 ```
 
-### Límits de la Carta
+### Chart Bounds
 
-Estableix els límits geogràfics de la teva carta per al mapatge de coordenades:
+Set your chart's geographic bounds for coordinate mapping:
 
 ```python
 chart_bounds = {
-    "north": 45.2,    # Ajusta per a la teva carta
+    "north": 45.2,    # Adjust for your chart
     "south": 44.5,
     "east": -0.3,
     "west": -1.0
 }
 ```
 
-### Caixes d'Informació
+### Information Boxes
 
-Defineix les àrees a retallar per a anàlisi de text:
+Define areas to crop for text analysis:
 
 ```python
 info_boxes = [
     (x, y, width, height),  # Format: (x, y, width, height)
-    # Afegeix més caixes segons sigui necessari
+    # Add more boxes as needed
 ]
 ```
 
-## Processament de Passos Individuals
+## Processing Individual Steps
 
-També pots executar passos individuals de preprocessament:
+You can also run individual preprocessing steps:
 
 ```python
 preprocessor = ChartPreprocessor("chart.png")
 
-# Converteix a escala de grisos
+# Convert to grayscale
 gray = preprocessor.convert_to_grayscale()
 
-# Aplica reducció de soroll
+# Apply noise reduction
 blurred = preprocessor.apply_gaussian_blur()
 
-# Detecta vores
+# Detect edges
 edges = preprocessor.detect_edges_canny()
 
-# I així successivament...
+# And so on...
 ```
 
-## Requisits
+## Requirements
 
 - Python 3.7+
 - OpenCV 4.8.0+
@@ -178,12 +178,12 @@ edges = preprocessor.detect_edges_canny()
 
 ## Notes
 
-- L'eina crea automàticament carpetes de sortida per a cada pas de processament
-- Cada pas desa tant la imatge processada com les metadades (format JSON)
-- La segmentació de color crea carpetes separades per a cada classe d'espai aeri
-- El mapatge de coordenades requereix límits precisos de la carta per a una conversió correcta de lat/lon
-- Tots els passos de processament utilitzen només OpenCV (sense biblioteques addicionals de processament d'imatges)
+- The tool automatically creates output folders for each processing step
+- Each step saves both the processed image and metadata (JSON format)
+- Color segmentation creates separate folders for each airspace class
+- Coordinate mapping requires precise chart bounds for correct lat/lon conversion
+- All processing steps use only OpenCV (no additional image processing libraries)
 
-## Llicència
+## License
 
-Aquesta eina es proporciona tal com està per a finalitats educatives i de recerca.
+This tool is provided as-is for educational and research purposes.

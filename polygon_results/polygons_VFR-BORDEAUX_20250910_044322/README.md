@@ -1,31 +1,31 @@
-# Resultats de Detecció de Polígons d'Espais Aeris
+# Airspace Polygon Detection Results
 
-**Data de processament:** 2025-09-10 04:43:51
-**Imatge original:** VFR-BORDEAUX.png
+**Processing date:** 2025-09-10 04:43:51
+**Original image:** VFR-BORDEAUX.png
 
-## Estructura de Carpetes
+## Folder Structure
 
-- `01_original/` - Imatge original
-- `02_individual_polygons/` - Imatges individuals de cada polígon
-- `03_by_airspace_type/` - Imatges agrupades per tipus d'espai aeri
-- `04_superimposed/` - Imatges amb tots els polígons superposats
-- `05_coordinates/` - Fitxers de coordenades dels vèrtexs
-- `06_visualizations/` - Resums visuals i llegendes
-- `07_data/` - Dades completes en format JSON
+- `01_original/` - Original image
+- `02_individual_polygons/` - Individual images of each polygon
+- `03_by_airspace_type/` - Images grouped by airspace type
+- `04_superimposed/` - Images with all polygons superimposed
+- `05_coordinates/` - Vertex coordinate files
+- `06_visualizations/` - Visual summaries and legends
+- `07_data/` - Complete data in JSON format
 
-## Fitxers Principals
+## Main Files
 
-- `all_polygons_filled.png` - Tots els polígons omplerts
-- `all_polygons_outlines.png` - Només contorns dels polígons
-- `all_polygons_vertices.png` - Només vèrtexs dels polígons
-- `vertex_coordinates.txt` - Coordenades en format llegible
-- `vertex_coordinates.csv` - Coordenades en format CSV
-- `vertex_data.json` - Dades completes en JSON
+- `all_polygons_filled.png` - All polygons filled
+- `all_polygons_outlines.png` - Polygon outlines only
+- `all_polygons_vertices.png` - Polygon vertices only
+- `vertex_coordinates.txt` - Coordinates in a readable format
+- `vertex_coordinates.csv` - Coordinates in CSV format
+- `vertex_data.json` - Complete data in JSON
 
-## Estadístiques
+## Statistics
 
-- **Total polígons detectats:** 129
-- **restricted_airspace:** 21 polígons
-- **controlled_airspace:** 76 polígons
-- **danger_areas:** 24 polígons
-- **prohibited_areas:** 8 polígons
+- **Total polygons detected:** 129
+- **restricted_airspace:** 21 polygons
+- **controlled_airspace:** 76 polygons
+- **danger_areas:** 24 polygons
+- **prohibited_areas:** 8 polygons
